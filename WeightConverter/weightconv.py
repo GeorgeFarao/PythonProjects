@@ -24,7 +24,6 @@ def from_kg():
 
 
 # Label widgets
-
 e1 = Label(window, text="Enter the weight in Kg")
 e2_value = StringVar()
 e2 = Entry(window,textvariable=e2_value)
